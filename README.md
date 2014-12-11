@@ -1,3 +1,5 @@
+KABA:本地语言管理工具
+
 # SCStringsUtility
 
 SCStringsUtility is an OS X Application built for easing the way we deal with localizable strings. It started off as a simple to/from CSV utility but ended up being a little bit more than that.
